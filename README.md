@@ -25,9 +25,13 @@ Este repositorio contiene un sistema de machine learning diseñado para tareas d
   - Garantiza la fiabilidad del sistema mediante pruebas automatizadas.
   - Verifica que el modelo cumpla con los criterios de rendimiento.
 
-## Primeros Pasos
+## Codigo
 
 1. **Clona el repositorio:**
    ```bash
    git clone https://github.com/tu-usuario/tu-repo.git
    cd tu-repo
+
+1. **Ejecuta las pruebas:**
+   ```bash
+   python test_system.py
